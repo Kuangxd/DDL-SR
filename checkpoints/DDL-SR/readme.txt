@@ -1,0 +1,4 @@
+https://doc-0c-68-docs.googleusercontent.com/docs/securesc/g1920ikjrvli64f1ufo8k5nr6ekgjkvg/38o1dpjkf71upo0k3ap2434uf2v34q33/1526450400000/06583965992468288915/06583965992468288915/1Idhor57IAYsO7W4RDJDKbQ8VcsoABQo4?e=download&nonce=943nuh43fnvgg&user=06583965992468288915&hash=b1uhop7kkrsqkrqca7vnqj0mc8m7ioq6
+
+
+Download the trained network from above website.
