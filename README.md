@@ -17,7 +17,7 @@ pip install dominate
 
 ### Testing
 - A few example test images are included in the `datasets` folder.
-- Please download the pre-trained model from [here](https://drive.google.com/drive/folders/1NdhrYDniB6flKJTnfzYcVFKdt2EBCaZR) (google drive link), and put it under `./checkpoints/DDL-SR/`
+- Please download the pre-trained model from [here](https://drive.google.com/open?id=1Idhor57IAYsO7W4RDJDKbQ8VcsoABQo4) (google drive link), and put it under `./checkpoints/DDL-SR/`
 - Test the model :
 ```bash
 python test.py --dataroot datasets/ --name DDL-SR --phase test
